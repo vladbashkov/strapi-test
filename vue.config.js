@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: 'strapi-test'
+    publicPath: '/project name/'
 }
