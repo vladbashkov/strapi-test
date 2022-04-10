@@ -23,6 +23,7 @@
       >
         <img 
           :src="this.firstVideoPicture" 
+          class="main-video"
           alt="some">
       </a>
     </section>
