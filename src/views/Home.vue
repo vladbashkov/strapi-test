@@ -19,7 +19,7 @@
     <section class="section">
       <a 
         :href="this.pageData.firstVideoLink"
-        class="video-main"
+        class="main-video"
       >
         <img 
           :src="this.firstVideoPicture" 
